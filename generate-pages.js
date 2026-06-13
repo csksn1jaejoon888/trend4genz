@@ -47,7 +47,7 @@ function videoUrl(v) {
 //  KONFIGURASI ADS
 // ════════════════════════════════════════════════════════════════
 const STATIC_AD = {
-  allAds: true,
+  allAds: false,
   useDirect:  true,
   directUrl:  'https://translate.google.com',
   usePlayAds:       true,
